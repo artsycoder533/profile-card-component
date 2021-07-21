@@ -28,17 +28,6 @@ body {
   overflow: hidden;
 }
 
-#top-background {
-  position: absolute;
-  left: 50px;
-  bottom: 500px;
-  z-index: 1;
-}
-
-#bottom-background {
-  position: absolute;
-}
-
 .card-container {
   position: relative;
   background-color: white;
@@ -58,7 +47,7 @@ body {
   -webkit-box-direction: normal;
       -ms-flex-direction: column;
           flex-direction: column;
-  z-index: 3;
+  z-index: 1000;
 }
 
 .card-header {
@@ -143,10 +132,14 @@ body {
 
 .bio-section .name span {
   font-weight: 400;
+  margin-left: 5px;
+  color: #6a6f81;
+  opacity: 0.7;
 }
 
 .bio-section p {
   color: #6a6f81;
+  opacity: 0.7;
 }
 
 .stats-section {
@@ -179,6 +172,7 @@ body {
 
 .stats p {
   font-size: 10px;
+  opacity: 0.7;
 }
 
 footer {
@@ -193,5 +187,20 @@ footer p {
 
 footer a {
   color: black;
+}
+
+.top, .bottom {
+  position: absolute;
+}
+
+.top {
+  top: -400px;
+  left: -50px;
+}
+
+.bottom {
+  position: absolute;
+  bottom: -525px;
+  right: 30px;
 }
 /*# sourceMappingURL=style.css.map */
