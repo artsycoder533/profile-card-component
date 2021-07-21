@@ -27,6 +27,17 @@ body {
   color: #6a6f81;
 }
 
+#top-background {
+  position: absolute;
+  left: 50px;
+  bottom: 500px;
+  z-index: 1;
+}
+
+#bottom-background {
+  position: absolute;
+}
+
 .card-container {
   position: relative;
   background-color: white;
@@ -46,6 +57,7 @@ body {
   -webkit-box-direction: normal;
       -ms-flex-direction: column;
           flex-direction: column;
+  z-index: 3;
 }
 
 .card-header {
