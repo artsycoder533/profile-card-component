@@ -26,7 +26,7 @@ This challenge is to build out this profile card component and get it looking as
 
 ### Screenshot
 
-![Desktop Screenshot](./images/desktop-screenshot.jpg)
+![Desktop Screenshot](./images/desktop-screenshot.png)
 
 
 
