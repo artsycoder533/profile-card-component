@@ -28,17 +28,12 @@ This challenge is to build out this profile card component and get it looking as
 
 ![Desktop Screenshot](./images/desktop-screenshot.jpg)
 
-Add a screenshot of your solution. The easiest way to do this is to use Firefox to view your project, right-click the page and select "Take a Screenshot". You can choose either a full-height screenshot or a cropped one based on how long the page is. If it's very long, it might be best to crop it.
-
-Alternatively, you can use a tool like [FireShot](https://getfireshot.com/) to take the screenshot. FireShot has a free option, so you don't need to purchase it. 
-
-Then crop/optimize/edit your image however you like, add it to your project, and update the file path in the image above.
 
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/njohnson533/profile-card-component.git)
-- Live Site URL: [Add live site URL here](https://njohnson533.github.io/profile-card-component/)
+- Solution URL: [https://github.com/njohnson533/profile-card-component.git](https://github.com/njohnson533/profile-card-component.git)
+- Live Site URL: [https://njohnson533.github.io/profile-card-component/](https://njohnson533.github.io/profile-card-component/)
 
 ## My process
 
@@ -69,5 +64,5 @@ I want to continue to get comfortable transition from CSS to SASS.  I wathched a
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/njohnson533)
+- Frontend Mentor - [@ynjohnson533](https://www.frontendmentor.io/profile/njohnson533)
 
